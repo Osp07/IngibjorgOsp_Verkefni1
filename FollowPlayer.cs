@@ -1,5 +1,5 @@
 using UnityEngine;
-
+//unit1
 public class FollowPlayer : MonoBehaviour
 {
     //tengjum myndavélina við spilaran
