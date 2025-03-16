@@ -19,6 +19,6 @@ allir leikmunir innan leiksins og auk umhverfisins, sjónarhorninu og ljósahall
 # inspector
 ínn í inspector getur þú farið yfir og skoðað eiginleika hlutarins í leiknum og breytt sumum hlutum um hann, í inspector sérðu skripturnar sem eru tengdar við hlutin og svo geturðu líka skalað og hreyft hlutinn í inspector glugganum.
 # unit 1 myndbandstengill
-[https://youtu.be/ApeZk2QMAxo]
+[https://youtu.be/sf67pulNpoc]
 # unit 2 myndbandstengill
 [https://youtu.be/ApeZk2QMAxo]
