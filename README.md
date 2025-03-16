@@ -18,3 +18,7 @@ skjalið sem við vinnum í þegar við hönnum tölvuleikin
 allir leikmunir innan leiksins og auk umhverfisins, sjónarhorninu og ljósahallanum eru geymdir inn í hirearchy
 # inspector
 ínn í inspector getur þú farið yfir og skoðað eiginleika hlutarins í leiknum og breytt sumum hlutum um hann, í inspector sérðu skripturnar sem eru tengdar við hlutin og svo geturðu líka skalað og hreyft hlutinn í inspector glugganum.
+# unit 1 myndbandstengill
+[https://youtu.be/ApeZk2QMAxo]
+# unit 2 myndbandstengill
+[https://youtu.be/ApeZk2QMAxo]
