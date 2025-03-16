@@ -6,3 +6,4 @@ unit2 skriftur
 [https://github.com/Osp07/IngibjorgOsp_Verkefni1/blob/main/DestroyOutOfBounds.cs]
 [https://github.com/Osp07/IngibjorgOsp_Verkefni1/blob/main/DetectCollitions.cs]
 [https://github.com/Osp07/IngibjorgOsp_Verkefni1/blob/main/MoveForward.cs]
+[https://github.com/Osp07/IngibjorgOsp_Verkefni1/blob/main/PlayerController.cs]
